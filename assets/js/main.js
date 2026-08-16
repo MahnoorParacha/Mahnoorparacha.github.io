@@ -59,7 +59,7 @@
   const roles = [
     'AI / ML Engineer',
     'Full-Stack Developer',
-    'Data Science Student',
+    'Online Python Tutor',
     'Deep Learning Practitioner'
   ];
   const typedEl = document.getElementById('typedRole');
